@@ -54,6 +54,4 @@ This project provides a **MySQL relational database schema** for a Clinic Bookin
 * Some business rules (like advanced overlapping checks) may be better enforced in the application layer.
 * You may extend this schema with user authentication, reporting features, or integration with external systems (e.g., insurance).
 
-## License
-
-This project is provided for **educational purposes**. You are free to modify and extend it for your own use.
+.
